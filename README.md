@@ -1,1 +1,2 @@
-# CS1026
+# CS1026(Python Projects)
+#Available here are the projects I worked on for one of my UWO courses CS1026, which focused on Python Programming
